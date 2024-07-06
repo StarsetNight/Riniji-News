@@ -43,6 +43,7 @@ export default defineConfig({
           collapsed: true,
           items: [
             { text: "2024年6月15日", link: "/archives/20240615" },
+            { text: "2024年7月6日", link: "/archives/20240706" },
           ]
         },
 

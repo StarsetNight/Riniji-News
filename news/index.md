@@ -18,12 +18,12 @@ hero:
       link: /about
 
 features:
-  - title: 多元团体
-    details: 我们集轨道交通、Minecraft城建、IT技术爱好为一体
-  - title: 包容并蓄
-    details: 我们不歧视任何合法群体
   - title: 万物皆允
-    details: 既不排斥养老玩家，也不拒绝强度玩家
+    details: 我们正努力打造一个“随心所欲而不逾矩”的休闲港口，让每一位成员都能共赏杯中明月
+  - title: 多元团体
+    details: 我们集多种爱好为一体，我们之间的纽带将不仅仅是Minecraft，更是更多的爱好以及我们之间的友谊
+  - title: 精彩未来
+    details: 作为新起之秀，璃虹港必将实现长足发展，进入大型社团行列，给服务器带来更多活力
 
 footer:
   message: 'Powered by Riniji Port'
